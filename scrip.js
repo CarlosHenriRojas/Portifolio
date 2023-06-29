@@ -9,7 +9,6 @@ function escrevendoLetra(){
         });
     
     }
-
     const titulo = document.querySelector('.digitando');
     ativaLetra(titulo);
 }
