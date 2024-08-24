@@ -25,7 +25,8 @@ header {
     padding: 10px;
     display: flex;
     align-items: center;
-    justify-content: space-around;
+    justify-content: space-between;
+    padding: 10px 60px 10px 60px;
 }
 header h1 {
     color: var(--main-azul-claro);
@@ -343,7 +344,6 @@ main .sobre {
     }
 }
 
-/*SEÇÂO SERVICE*/
 /* SEÇÃO SERVICE */
 .my_services {
     color: white;
@@ -353,7 +353,6 @@ main .sobre {
 .services {
     background-color: #151515;
     padding: 60px;
-    margin-top: -30px;
 }
 
 .my_services ul {
